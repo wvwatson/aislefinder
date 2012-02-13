@@ -1,3 +1,3 @@
 module AisleFinder
-    VERSION = "0.0.01"
+    VERSION = "0.0.02"
 end
