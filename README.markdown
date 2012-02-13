@@ -36,7 +36,7 @@ products.first.item_name
 
 *Find products by full name*
 ```
---should match /Apples/
+--should match /Apples/  
 AisleFinder.find_product_names_by_full_name("Apple").first.product_name
 ```
 
