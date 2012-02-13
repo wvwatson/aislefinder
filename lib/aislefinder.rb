@@ -9,7 +9,7 @@ require 'array_of_string'
 require 'array_of_store'
 require 'cgi'
 
-class FoodFinder
+module AisleFinder
   
   class << self; 
     attr_accessor :base_uri 

@@ -1,4 +1,4 @@
-Copyright (c) 2011 Wavell Watson, https://github.com/wavell/foodfinder
+Copyright (c) 2011 Wavell Watson, https://github.com/wavell/AisleFinder
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

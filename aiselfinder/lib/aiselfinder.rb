@@ -1,0 +1,3 @@
+module Aiselfinder
+  # Your code goes here...
+end
