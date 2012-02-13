@@ -37,17 +37,20 @@ products.first.item_name
 *Find products by full name*
 
 ```
+#should match /Apples/
 AisleFinder.find_product_names_by_full_name("Apple").first.product_name
-should match /Apples/ 
+ 
 ```
 
 *Find stores by name*
+
 ```
 --should match /Safeway/  
 AisleFinder.find_stores_by_name("Safeway").first.store_name 
 ```
 
 *Find products by store id*
+
 ```
 --should match /Apples/  
 AisleFinder.find_products_by_store_id("b97153fc14", "Apple").first.item_name
