@@ -1,4 +1,4 @@
-Aisle finder
+Aisle Finder
 ===============================
 
 **Installation**
